@@ -1,0 +1,20 @@
+.fullscreenDiv {
+  background-color: white;
+  width: 100%;
+  height: auto;
+  bottom: 0px;
+  top: 0px;
+  left: 0;
+  position: absolute;
+}
+.center {
+  position: absolute;
+  border: 1px solid blue;
+  width: 200px;
+  height: 100px;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  text-align: center;
+}
